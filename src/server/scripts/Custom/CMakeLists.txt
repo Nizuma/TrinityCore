@@ -13,6 +13,7 @@ set(scripts_STAT_SRCS
 	Custom/Transmogrification.h
 	Custom/Transmogrification.cpp
 	Custom/Transmogrifier.cpp
+	Custom/player_abuse.cpp
 )
 
 message("  -> Prepared: Custom")
